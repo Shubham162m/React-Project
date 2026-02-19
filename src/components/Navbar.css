@@ -1,0 +1,35 @@
+.navbar {
+          background-image: url("C:\Users\shubham\OneDrive\Pictures\WALLPAPER SS\Wallpaper WebSite\windows_wallpaper_4.png");
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #760bf0;
+  padding: 15px 50px;
+  color: white;
+}
+
+
+
+.nav-links {
+  list-style: none;
+  display: flex;
+  gap: 30px;
+}
+
+.nav-links li a {
+  text-decoration: none;
+  color: white;
+  font-size: 16px;
+
+}
+
+
+
+.login-btn {
+  background-color: #f8f8f8;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 5px;
+
+}
+
